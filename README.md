@@ -1,0 +1,2 @@
+# pokemon-project
+vue, electron
