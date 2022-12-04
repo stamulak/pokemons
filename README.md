@@ -7,10 +7,10 @@
 
 2. Then use terminal:
 ```
-<b>npm install</b>
+npm install
 ```
 
 3. Then run it:
 ```
-<b>npm run electron:serve</b>
+npm run electron:serve
 ```
